@@ -1,18 +1,34 @@
-# This .gitignore is appropriate for repositories deployed to GitHub Pages and using
-# a Gemfile as specified at https://github.com/github/pages-gem#conventional
+# Política de Privacidade
 
-# Basic Jekyll gitignores (synchronize to Jekyll.gitignore)
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+## Informações Gerais
+DEL_PND#362 valoriza a privacidade dos usuários e está comprometida em proteger as informações pessoais que você compartilha conosco.
 
-# Additional Ruby/bundler ignore for when you run: bundle install
-/vendor
+## Coleta de Dados
+Nosso aplicativo coleta os seguintes tipos de dados:
+- Informações pessoais: Nome, e-mail
+- Dados de uso: Dados de navegação, interações no app
 
-# Specific ignore for GitHub Pages
-# GitHub Pages will always use its own deployed version of pages-gem 
-# This means GitHub Pages will NOT use your Gemfile.lock and therefore it is
-# counterproductive to check this file into the repository.
-# Details at https://github.com/github/pages-gem/issues/768
-Gemfile.lock
+## Uso de Dados
+As informações coletadas são usadas para:
+- Melhorar a experiência do usuário
+- Fornecer suporte técnico
+- Análise e monitoramento de desempenho
+
+## Compartilhamento de Dados
+Os dados coletados não são compartilhados com terceiros, exceto conforme necessário para:
+- Cumprir requisitos legais
+- Proteger direitos e propriedades
+
+## Segurança de Dados
+Implementamos medidas de segurança apropriadas para proteger contra acesso não autorizado, alteração ou destruição dos dados pessoais.
+
+## Retenção de Dados
+Os dados são mantidos pelo tempo necessário para cumprir os propósitos descritos nesta política, a menos que a lei exija um período de retenção mais longo.
+
+## Contato
+Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco em [seu-email@dominio.com].
+
+## Alterações nesta Política de Privacidade
+Podemos atualizar nossa Política de Privacidade de tempos em tempos. Notificaremos você sobre quaisquer alterações publicando a nova Política de Privacidade nesta página.
+
+Última atualização: [Data]
